@@ -40,5 +40,4 @@ digital-clock-stopwatch/
 ```
 
 ## Author
-
 Dhruv Kolekar
